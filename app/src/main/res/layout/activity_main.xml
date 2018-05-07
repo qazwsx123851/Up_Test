@@ -46,8 +46,8 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:headerLayout="@layout/header"
-        app:itemIconTint="#ffff"
-        app:itemTextColor="#ffff"
+        app:itemIconTint="#000000"
+        app:itemTextColor="#000000"
         app:menu="@menu/menu_items_with_headers"/>
 
 

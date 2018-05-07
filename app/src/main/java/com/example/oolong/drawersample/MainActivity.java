@@ -19,10 +19,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private Toolbar mToolbar;
     private DrawerLayout mDrawerLayout;
     private TextView tvname;
-    //使用代码块直接设置NightMode
-    static {
-    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
-    }
+    //NightMode
+//    static {jijijij
+//    AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
+//    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
